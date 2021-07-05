@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+img.class {
+    height: 360px;
+    width: 640px;
+    border: solid 1px burlywood;
+    border-radius: 40px;
+    box-shadow: 2px 2px 12px black;
+}
+
+section {
+    background-color: blanchedalmond;
+    border: solid 1px burlywood;
+    border-radius: 40px;
+    margin: 15px;
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 2px 12px black;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    border: solid 1px burlywood;
+    border-radius: 40px;
+    padding: 15px;
+    margin: 15px;
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 2px 2px 12px black;
+    box-sizing: border-box;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+div.classa {
+    display: inline-block;
+}
+
+a:hover {
+    color: rgb(254, 255, 240);
+}
